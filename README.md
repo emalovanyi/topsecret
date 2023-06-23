@@ -136,3 +136,13 @@ printf("\n");
 free(bmp_encrypted);
 free(bmp_decrypted);
 ```
+# An example of using the program
+<strong>Compiling a program</strong>
+
+```c
+gcc -std=c11 -Werror -Wall -lm 
+```
+<h3><strong>Example of using</strong></h3>
+
+![image](https://github.com/emalovanyi/topsecret/assets/70052763/16bbf889-5bde-44a1-8725-566cd171a72c)
+
